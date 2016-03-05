@@ -1,1 +1,1 @@
-# powerand-pstr
+Run in project directory.
