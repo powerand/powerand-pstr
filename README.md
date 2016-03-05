@@ -1,1 +1,1 @@
-Run in project directory.
+Execute from project directory, for replace PHP short tags.
